@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/rschmukler/karma-mi6/issues"
   },
-  "homepage": "https://github.com/rschmukler/karma-mi6"
+  "homepage": "https://github.com/rschmukler/karma-mi6",
+  "dependencies": {
+    "mi6": "~0.2.0"
+  }
 }
