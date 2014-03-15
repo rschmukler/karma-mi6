@@ -1,6 +1,6 @@
 {
   "name": "karma-mi6",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Bring mi6 into karma",
   "main": "index.js",
   "scripts": {
@@ -24,6 +24,6 @@
   },
   "homepage": "https://github.com/rschmukler/karma-mi6",
   "dependencies": {
-    "mi6": "~0.2.0"
+    "mi6": "~0.3.0"
   }
 }
